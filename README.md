@@ -1,7 +1,7 @@
 # Hola ✨ 🐾
 
 
-<img width="640" height="626" alt="michi" src="https://github.com/user-attachments/assets/825c283b-548c-4165-ae68-ec7b97494714" />
+<img width="160" height="160" alt="michi" src="https://github.com/user-attachments/assets/825c283b-548c-4165-ae68-ec7b97494714" />
 
 
 ### 🎓 Estudiante de Desarrollo de Software
