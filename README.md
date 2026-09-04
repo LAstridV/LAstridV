@@ -1,10 +1,7 @@
 # Hola ✨ 🐾
 
-<p align="left">
-  <img src="https://myoctocat.com" width="160" alt="GitHub Octocat">
-</p>
 
-
+<img width="640" height="626" alt="michi" src="https://github.com/user-attachments/assets/825c283b-548c-4165-ae68-ec7b97494714" />
 
 
 ### 🎓 Estudiante de Desarrollo de Software
