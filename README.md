@@ -1,8 +1,9 @@
 # Hola ✨ 🐾
 
 <p align="left">
-  <img src="https://imgur.com" width="160" alt="Gatito con gafas programando">
+  <img src="https://myoctocat.com" width="160" alt="GitHub Octocat">
 </p>
+
 
 
 
