@@ -4,6 +4,7 @@
   <img src="https://giphy.com" width="160" alt="Cat wearing glasses working on computer">
 </p>
 
+
 ### 🎓 Estudiante de Desarrollo de Software
 > ***"Compilando ideas, diseñando el futuro y consintiendo gatos."***
 
