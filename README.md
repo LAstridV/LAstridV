@@ -1,8 +1,9 @@
 # Hola ✨ 🐾
 
 <p align="left">
-  <img src="https://giphy.com" width="160" alt="Cat wearing glasses working on computer">
+  <img src="https://imgur.com" width="160" alt="Gatito con gafas programando">
 </p>
+
 
 
 ### 🎓 Estudiante de Desarrollo de Software
