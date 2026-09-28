@@ -15,13 +15,5 @@
 * 🐾 **Mascotas:** Fiel servidora de los felinos; experta en quitar patitas del teclado.
 
 \### :zap: Actividad reciente
-
-\<!--START\_SECTION:activity-->
-
-\<!--END\_SECTION:activity-->
-
-
-
 \<!--RECENT\_ACTIVITY:start-->
-
 \<!--RECENT\_ACTIVITY:last\_update-->
