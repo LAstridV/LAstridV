@@ -14,6 +14,7 @@
 * 💻 **Intereses:** Lógica de programación, creación de aplicaciones y entornos web limpios.
 * 🐾 **Mascotas:** Fiel servidora de los felinos; experta en quitar patitas del teclado.
 
-\### :zap: Actividad reciente
-\<!--RECENT\_ACTIVITY:start-->
-\<!--RECENT\_ACTIVITY:last\_update-->
+### :zap: Actividad reciente
+<!--RECENT\_ACTIVITY:start-->
+<!--RECENT\_ACTIVITY:last\_update-->
+
