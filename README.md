@@ -13,3 +13,15 @@
 * 📚 **Formación:** Estudiante activa aprendiendo ingeniería y desarrollo de software.
 * 💻 **Intereses:** Lógica de programación, creación de aplicaciones y entornos web limpios.
 * 🐾 **Mascotas:** Fiel servidora de los felinos; experta en quitar patitas del teclado.
+
+\### :zap: Actividad reciente
+
+\<!--START\_SECTION:activity-->
+
+\<!--END\_SECTION:activity-->
+
+
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
