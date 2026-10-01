@@ -1,12 +1,9 @@
-name: Update README2
+name: Update README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
@@ -14,7 +11,7 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v2.3.4
 
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
