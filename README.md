@@ -16,9 +16,9 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [LAstridV/LAstridV](https://github.com/LAstridV/LAstridV)<br>
-2. ⬆️ Pushed undefined commit(s) to [LAstridV/LAstridV](https://github.com/LAstridV/LAstridV)<br>
+1. ✔️ Closed issue [#1](https://github.com/LAstridV/miCuartoRepo/issues/1) in [LAstridV/miCuartoRepo](https://github.com/LAstridV/miCuartoRepo)<br>
+2. ❗️ Opened issue [#1](https://github.com/LAstridV/miCuartoRepo/issues/1) in [LAstridV/miCuartoRepo](https://github.com/LAstridV/miCuartoRepo)<br>
 3. ⬆️ Pushed undefined commit(s) to [LAstridV/LAstridV](https://github.com/LAstridV/LAstridV)<br>
-4. ⬆️ Pushed undefined commit(s) to [EscuelaAstrid01/.github](https://github.com/EscuelaAstrid01/.github)<br>
+4. ⬆️ Pushed undefined commit(s) to [LAstridV/LAstridV](https://github.com/LAstridV/LAstridV)<br>
 5. ⬆️ Pushed undefined commit(s) to [LAstridV/LAstridV](https://github.com/LAstridV/LAstridV)<br>
 <!--RECENT_ACTIVITY:end-->
