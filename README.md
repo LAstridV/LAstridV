@@ -17,8 +17,8 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [LAstridV/miCuartoRepo01](https://github.com/LAstridV/miCuartoRepo01)<br>
-2. ❌ Closed PR [#1](undefined) in [LAstridV/miCuartoRepo01](https://github.com/LAstridV/miCuartoRepo01)<br>
-3. 💪 Opened PR [#1](undefined) in [LAstridV/miCuartoRepo01](https://github.com/LAstridV/miCuartoRepo01)<br>
-4. ⬆️ Pushed undefined commit(s) to [LAstridV/miCuartoRepo01](https://github.com/LAstridV/miCuartoRepo01)<br>
-5. ⬆️ Pushed undefined commit(s) to [LAstridV/LAstridV](https://github.com/LAstridV/LAstridV)<br>
+2. ⬆️ Pushed undefined commit(s) to [LAstridV/miCuartoRepo01](https://github.com/LAstridV/miCuartoRepo01)<br>
+3. ✌️ Released [v0.1.0](https://github.com/LAstridV/tercerRepo/releases/tag/v0.1.0) in [LAstridV/tercerRepo](https://github.com/LAstridV/tercerRepo)<br>
+4. 💪 Opened PR [#3](undefined) in [LAstridV/miCuartoRepo01](https://github.com/LAstridV/miCuartoRepo01)<br>
+5. 💪 Opened PR [#2](undefined) in [LAstridV/miCuartoRepo01](https://github.com/LAstridV/miCuartoRepo01)<br>
 <!--RECENT_ACTIVITY:end-->
